@@ -1,0 +1,1 @@
+Projekte StudentLibrary i MessageQueueClient treba importovati u Eclipse okruženje. Za prvi projekat kao Front-end korišæen je JSP i MySQL baza za prikaz podataka na stranici. Što se tièe back-end projekta kao message broker upotrebljen je ActiveMQ koga treba instalirati, a neophodne biblioteke dodati u build path.
